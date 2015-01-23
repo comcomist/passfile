@@ -21,3 +21,5 @@ while (n>0){
 	when reviverFile is given to sender in cryptoparty events of singing the pubK of the reviver 
 	and passfile=reviverPubk(reviverFile) symkEncrypted=(passfile(Senderfile)) is send from sender  to reviver
 	when the password if  pubk as the file is given in cryptoparty with the singing events 
+
+![](http://comcomist.wdfiles.com/local--files/4-new-mediums-in-our-living-the-iiaom-rcoin-comcom-liquid-un/FileWord.png)
