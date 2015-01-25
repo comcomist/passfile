@@ -1,4 +1,4 @@
-# passFile:  under Humanitarian AGPL, used it for to increase randomizing passwords in a user friendly fashion.
+# passFile: Randomizing passwords in a user friendly fashion  in one or more rounds (license: Humanitarian AGPL).
 The passFile introduce the additional selected file factor,  such that
 * the file is first symmetrically encrypted with user password and then
 *  hashed to produce the passFile used as the new password. 
